@@ -30,33 +30,8 @@
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">Gaskell Ball</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-
-            <!-- begin addlist-vr.htm  -->
-<div align="right" id="email_block">
-<form method="post" action="http://oi.vresp.com?fid=ac47a82739"
-target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
-    Mailing list: 
-    <input name="email_address" placeholder="Email" size="15" style="margin-top: 5px; border: 1px solid #999; padding: 3px;"/>
-    <input type="submit" value="Join" style="margin-top: 5px; border: 1px solid #999; padding: 3px;"/><br/>
-</form>
-</div>
-<!-- end addlist-vr.htm  -->
-       <!--/.navbar-collapse -->
-      </div>
-    </nav>
-
+    <div id="navigation">
+    </div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
@@ -77,6 +52,7 @@ target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com'
 <h2>Parking</h2>
 
 <p>Limited parking is available behind the center on Madison St., additional parking is available on the street.</p>
+<p>There are a number of paid lots avaiable in the area, as well. </p>
           
         </div>
         
@@ -97,5 +73,10 @@ target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com'
     <script src="dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+        <script>
+    $(document).ready(function() {
+        $('#navigation').load('navigation.html');
+    });
+    </script>
   </body>
 </html>
