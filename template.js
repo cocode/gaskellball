@@ -9,10 +9,14 @@ for (var i=2; i < process.argv.length; i++) {
     console.log(src)
     var contents = fs.readFileSync(src, 'utf8')
     var nn = contents.search(key)
-    console.log("nn = " + nn)
-    var part = contents.substring(nn+key.length)
-    var mm = part.search(/\W/)
-    console.log("mm = " + mm)
-    var ref = part.substring(0,mm)
-    console.log(ref)
+    while (nn !== -1) {
+        console.log("nn = " + nn)
+        var part = contents.substring(nn+key.length)
+        var mm = part.search(/\W/)
+        console.log("mm = " + mm)
+        var ref = part.substring(0,mm)
+        console.log(ref)
+        contents = part.substring(mm)
+        nn = contents.search(key)
+    }
 }
