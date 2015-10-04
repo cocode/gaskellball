@@ -12,3 +12,4 @@ color: white;
 }
 /* Indent paragraphs under headings. */
 .indented-text p { padding-left:10px}
+footer p { padding-left:10px}
