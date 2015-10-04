@@ -1,3 +1,12 @@
+/*
+    Very Simple Templating System
+    Variables are of the form @@xxyyzz
+    They are replaced by the contents of a file named xxyyzz.inc
+
+    Note that the variable ends at the first non [A-Za-z0-9]
+
+    Usage: node template.js template_file_name > output_file
+*/
 "use strict";
 
 var fs = require('fs')
@@ -16,7 +25,8 @@ for (var i=2; i < process.argv.length; i++) {
         var part = contents.substring(keyStart + key.length)
         var mm = part.search(/\W/)
         var ref = part.substring(0,mm)
-        output = output.concat(ref.toUpperCase())
+        ref = fs.readFileSync(ref+".inc", "utf8")
+        output = output.concat(ref)
         //console.log(ref)
         contents = part.substring(mm)
         nn = contents.search(key)
