@@ -6,6 +6,8 @@
     Note that the variable ends at the first non [A-Za-z0-9]
 
     Usage: node template.js template_file_name > output_file
+
+    This is not currently recursive, @@ in .inc files are passed through.
 */
 "use strict";
 
@@ -31,7 +33,7 @@ for (var i=2; i < process.argv.length; i++) {
         contents = part.substring(mm)
         nn = contents.search(key)
         if (nn === -1) {
-            output = output.concat(part)
+            output = output.concat(contents)
         }
     }
 }
