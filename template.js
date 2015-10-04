@@ -16,9 +16,18 @@ var controlFile
 var key = "@@"
 var output = ""
 
-for (var i=2; i < process.argv.length; i++) {
+var argIndex = 2
+for (var i=argIndex; i < process.argv.length; i++) {
+    var arg  = process.argv[i]
+    var eq = arg.indexOf("=")
+    if (eq !== -1) {
+        argIndex++
+    } else {
+        break;
+    }
+}
+for (var i=argIndex; i < process.argv.length; i++) {
     var src  = process.argv[i]
-    //console.log(src)
     var contents = fs.readFileSync(src, 'utf8')
     var nn = contents.search(key)
     while (nn !== -1) {
