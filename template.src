@@ -55,7 +55,16 @@
 
     <hr>
     <footer>
-        <p>&copy; 2015 Gaskell Ball.</p>
+        <div class="container">
+            <div class="col-md-4">
+                &copy; 2015 Gaskell Ball.
+            </div>
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+                <span class="pull-right">Visit us on <a href="http://facebook.com/gaskellball">Facebook</a></span>
+            </div>
+        </div
     </footer>
 
     <!-- Bootstrap core JavaScript
