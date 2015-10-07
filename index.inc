@@ -8,7 +8,7 @@
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Dance Class</h2>
+          <h2>Dance Classes</h2>
           <p>On the afternoon of the ball, in the same location, there is a 2 ½ hour beginner dance class. The class covers many of the dances that will be done at the ball.</p>
           <p><a class="btn btn-default" href="classes.html" role="button">More Info &raquo;</a></p>
         </div>
