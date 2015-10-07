@@ -10,6 +10,10 @@
     Usage: node template.js v1=value v2 = value ... template_file_name > output_file
 
     This is not currently recursive, @@ in values or ".inc" files are passed through.
+
+    If you want a conditional include, create the file xxx.inc. If you want to turn it
+    off, then set xxx=""
+
 */
 "use strict";
 
