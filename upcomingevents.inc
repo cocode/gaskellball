@@ -3,10 +3,10 @@
       <div class="row">
         <div class="col-md-12 indented-text">
 
-<h2>The Halloween Gaskell Ball: Saturday, October 24th, 2015</h2>
-<a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a>
+<h2>The Next Gaskell Ball: Will be in 2016</h2>
+<!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
-<p>The Gaskell Ball is back for a spooktacular event! Our only ball this year is the October Halloween Gaskell Ball, traditionally our largest and most spectacular event of the year. While you can come in formal attire, Halloween is a chance to shine, so start finding/making your costume now. And bring your camera, as there we be all sorts of interesting costumes to be seen.</p>
+<p>The Gaskell Ball will return in 2016, for another ball in the gorgeous Oakland Scottish Rite Ballroom. </p>
 
 <p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p>
 

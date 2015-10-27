@@ -3,8 +3,8 @@
       <div class="row">
         <div class="col-md-4">
           <h2>The Ball</h2>
-          <p>The next ball is our Halloween Gaskell's formal costume ball.</p>
-          <p>Dress your finest, or your most creative - but dress to dance!</p>
+          <p>The 2015 ball was a smash success, with hundreds in attendance. </p>
+          <p>The next ball will be in 2016. We are not doing one ball per year </p>
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
