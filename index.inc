@@ -4,7 +4,7 @@
         <div class="col-md-4">
           <h2>The Ball</h2>
           <p>The 2015 ball was a smash success, with hundreds in attendance. </p>
-          <p>The next ball will be in 2016. We are now doing one ball per year </p>
+          <p>The next ball will be ... someday. Watch this space, or follow us on <a href="facebook.com/gaskellball">facebook</a>.</p>
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
