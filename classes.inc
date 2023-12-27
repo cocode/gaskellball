@@ -23,10 +23,13 @@
           <h1>Other Learning Options</h1>
           <ul>
                 <li><a href="http://fridaynightwaltz.com">Friday Night Waltz</a>
-                <li><a href="http://peersdance.org/dance.html">Peers</a>
+                <li><a href="http://peersdance.org">Peers</a>
                 <li><a href="http://eastbaywaltz.com">East Bay Waltz</a>
             </ul>
             <p>If you are not already a dancer, taking any couples dance class before the ball will help: swing, tango, etc.</p>
+        <h1>Book</h1>
+            <p>For a book on teaching dance, by the Gaskell Ball instructor, go <a href="http://www.howtoteachballroomdancing.com">here</a>.</p>
+            <p>Note this is a book on teaching dance, not a book that teaches the dances from the ball.</p>
           
         </div>
         
