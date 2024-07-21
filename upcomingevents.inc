@@ -30,11 +30,12 @@
 </dl>
 
 <h3>Admission</h3>
-Ticket prices TBD
+Ticket prices for 2024 TBD
 <!--
 <p><a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1">$20 in advance.</a></p>
--->
 <p>$25 at the door.</p>
+-->
+
 
         </div>
         
