@@ -29,8 +29,11 @@
     <dt>12:00</dt><dd> The ball ends<dd>
 </dl>
 
-<h3>Admission:</h3>
+<h3>Admission</h3>
+Ticket prices TBD
+<!--
 <p><a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1">$20 in advance.</a></p>
+-->
 <p>$25 at the door.</p>
 
         </div>
