@@ -3,12 +3,14 @@
       <div class="row">
         <div class="col-md-12 indented-text">
 
-<h2>The Next Gaskell Ball: Will be in 2016</h2>
+<h2>The Next Gaskell Ball: 2024</h2>
 <!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
-<p>The Gaskell Ball will return in 2016, for another ball in the gorgeous Oakland Scottish Rite Ballroom. </p>
+<p>We don't know when The Gaskell Ball will return, but there are rumors of 2024. </p>
+<p>If you are interested in actually working to make this happen, reach out to us.</p>
+<p>This was last updated 2024-07-19</p>
 
-<p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p>
+<!-- <p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p> -->
 
 <H3>Music</H3>
 <p>Live music will be provided by the <a href="http://www.brassworksband.com/">Brassworks Band.</a></p>
