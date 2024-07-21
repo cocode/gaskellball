@@ -7,7 +7,7 @@
 <!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
 <p>We don't know when The Gaskell Ball will return, but there are rumors of 2024. </p>
-<p>If you are interested in actually working to make this happen, reach out to us.</p>
+<!-- <p>If you are interested in actually working to make this happen, reach out to us.</p> -->
 <p>This was last updated 2024-07-19</p>
 
 <!-- <p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p> -->
@@ -23,10 +23,10 @@
 
 <dl class="dl-horizontal">
     <dt>3:30pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
-    <dt>7:30pm</dt><dd> Doors open for the ball<dd>
-    <dt>7:45pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
-    <dt>8:30pm</dt><dd> Dancing begins<dd>
-    <dt>12:00</dt><dd> The ball ends<dd>
+    <dt>6:30pm</dt><dd> Doors open for the ball<dd>
+    <dt>6:45pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
+    <dt>7:30pm</dt><dd> Dancing begins<dd>
+    <dt>11:00</dt><dd> The ball ends<dd>
 </dl>
 
 <h3>Admission</h3>
