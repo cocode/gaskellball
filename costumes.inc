@@ -5,7 +5,7 @@
           <h1>What to Wear</h1>
 
 <p>The Gaskell Ball is a Formal Victorian Ball, and that is the preferred standard of dress. 
-Formalwear of more recent years is acceptable.</p>
+Formalwear of more recent years is also acceptable.</p>
 
 <p>To preserve the look of the ball, Jeans and T-shirts, casual shirts, etc., are not allowed.</p>
 <p>Weapons are not allowed, not even if they are historically accurate parts of your attire.</p>
