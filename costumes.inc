@@ -34,7 +34,9 @@ Hem appropriately or you may be stepping on it all night!
 
 <h2>Shoes</h2>
 
-<p>A ball is a great place to wear comfortable shoes. Shoes designed for dancing are best, if you have them.</p>
+<p>A ball is a great place to wear comfortable shoes. If you are wearing a long dress, no one will see them!</p>
+<p>Shoes designed for dancing are best, if you have them.</p>
+<p>Athletic shoes are not good, as they are designed to grib the floor, and dancing requires turning</p>
 <p>Avoid tall platforms or spike heels, they are a danger both to yourself, and those around you! Besides, if you are wearing a long dress, no one will see your shoes!<p>
 
         </div>
