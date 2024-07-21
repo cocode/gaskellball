@@ -1,4 +1,4 @@
-This is the website for the Gaskell Ball http://www.gaskellball.com
+This is the website for the Gaskell Ball http://gaskellball.com
 
 To update:
 
