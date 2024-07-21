@@ -1,6 +1,3 @@
-/* Indent paragraphs under headings. */
-.indented-text p { padding-left:10px}
-tom@toms-MacBook-Pro-2 gaskellball % cat jumbotron.inc 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
@@ -9,4 +6,3 @@ tom@toms-MacBook-Pro-2 gaskellball % cat jumbotron.inc
         <!-- p><a class="btn btn-info btn-lg" href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" role="button">Buy Tickets Now &raquo;</a></p -->
       </div>
     </div>
-
