@@ -3,13 +3,13 @@
       <div class="row">
         <div class="col-md-4">
           <h2>The Ball</h2>
-          <p>The 2015 ball was a smash success!!!!, with hundreds in attendance. </p>
-          <p>The next ball will be in 2024. Watch this space, or follow us on <a href="facebook.com/gaskellball">facebook</a>.</p>
+          <p>The 2015 ball was a smash success, with hundreds in attendance. </p>
+          <p>The next ball will be in 2024. Watch this space, or follow us on <a href="facebook.com/gaskellball">Facebook</a>.</p>
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Dance Classes</h2>
-          <p>On the afternoon of the ball, in the same location, there is a 2 ½ hour beginner dance class. There is also very fast 30 minute class before the ball.</p>
+          <p>On the afternoon of the ball, in the same location, there is a 2½ hour beginner dance class. There is also very fast 30 minute class before the ball.</p>
           <p><a class="btn btn-default" href="classes.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
