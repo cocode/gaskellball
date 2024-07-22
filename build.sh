@@ -4,3 +4,4 @@ node template.js 'sub=What to Wear'             contents=@costumes.inc template.
 node template.js 'sub=Location and Map'         contents=@location.inc template.src > location.html
 node template.js 'sub=Congress of Vienna Waltz' contents=@congress.inc jumbotron="" template.src > congress.html
 node template.js 'sub=Next Ball'                contents=@upcomingevents.inc template.src > upcomingevents.html
+node template.js 'sub=Press Info'               contents=@press.inc template.src > press.html
