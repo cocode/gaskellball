@@ -28,6 +28,7 @@
 <a title="Gaskell Ball Meetup" href="https://www.meetup.com/the-gaskell-ball/"><img width="512" alt="Meetup Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/512px-Meetup_Logo.png?20171128161324"></a>
 <a title="Instagram, Public domain, via Wikimedia Commons" href="https://www.instagram.com/gaskellball/?hl=en"><img width="512" alt="Instagram logo 2022" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/512px-Instagram_logo_2022.svg.png?20220518162235"></a>
         <a href="https://twitter.com/YOUR_PAGE" target="_blank">
+<a title="Gaskell Ball on Wikipedia" href="https://en.wikipedia.org/wiki/Gaskell_Ball"><img width="64" alt="Wikipedia-logo-v2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/64px-Wikipedia-logo-v2.svg.png?20100702151035"></a>
 <a title="Gaskell Ball Twitter/X link" href="https://twitter.com/thegaskellball?lang=en"><img width="256" alt="X logo 2023" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/256px-X_logo_2023.svg.png?20230819000805"></a>
         </a>
     </div>
