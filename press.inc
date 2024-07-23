@@ -10,7 +10,7 @@
       <br>
       <div>
          <hr>
-         <a href="./images/DSC02547.jpeg" target="_blank">
+         <a href="./images/DSC02547_busy_dance_level.jpeg" target="_blank">
          <img width=400 src="./images/DSC02547.jpeg">
          </a>
          <hr>
