@@ -77,8 +77,8 @@
          <img width=400 src="./images/DSC03828.jpeg">
          </a>
          <hr>
-         <a href="./images/DSC03393.jpeg" target="_blank">
-         <img width=400 src="./images/DSC03393.jpeg">
+         <a href="./images/DSC03393_band_lighter.jpg" target="_blank">
+         <img width=400 src="./images/DSC03393_band_lighter.jpg">
          </a>
       </div>
    </div>
