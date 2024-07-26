@@ -9,7 +9,8 @@
 
 <h2>Parking</h2>
 
-<p>Limited parking is available behind the center on Madison St., additional parking is available on the street.</p>
+<p>Parking is limited in the area. Please consider Car Pools, Uber/Lyft, and Public Transportation. Or combine them! Bart to Oakland, Lyft to the hall.<p>
+<p>This is some parking behind the hall, on Madison St., additional parking is available on the street.</p>
 <p>There are a number of paid lots avaiable in the area, as well. </p>
         
           
