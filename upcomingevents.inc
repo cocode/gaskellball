@@ -20,11 +20,11 @@
 <a href="location.html" class="btn btn-info" role="button">Map</a>
 
 <h3>Schedule</h3>
-
+<p>The schedule may change. Please check again, closer to the date of the ball</p>
 <dl class="dl-horizontal">
     <dt>3:30pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
     <dt>6:30pm</dt><dd> Doors open for the ball<dd>
-    <dt>6:45pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
+    <dt>6:40pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
     <dt>7:30pm</dt><dd> Dancing begins<dd>
     <dt>11:00</dt><dd> The ball ends<dd>
 </dl>
