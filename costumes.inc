@@ -23,8 +23,9 @@ a hazard to other dancers is allowed.</p>
 <p>Historical formal attire is also popular, such as Tailcoats or Cutaways.</p>
 <p>Hstorical military <em>dress</em> uniforms are also worn. (no swords).</p>
 <p>Modern dress uniforms are also welcome, if they are yours.</p>
-<p>A modern suit is acceptable, and a jacket & tie (with slacks & a dress shirt) is the minimum level of dress. While you do see men in just a vest, no jacket,
-in the photo above, they arrived in a jacket and tie.</p>
+<p>A modern suit is acceptable, and a jacket & tie (with slacks & a dress shirt) is the minimum level of dress.</p>
+<p>While you do see men in photo above in just a vest, no jacket, 
+they arrived in a jacket and tie. We make allowances for overheating while dancing.</p>
 
 <h2>Ladies' Attire</h2>
 
