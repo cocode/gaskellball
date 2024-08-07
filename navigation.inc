@@ -24,17 +24,20 @@
             <li><a href="classes.html">Classes</a></li>
             <li><a href="costumes.html">What to Wear</a></li>
             <li><a href="location.html">Location</a></li>
+            <li><a href="http://facebook.com/gaskellball">Facebook</a></li>
           </ul>
+<!--
           <ul class="nav navbar-nav navbar-right"  id="email_block">
-           <!-- begin addlist-vr.htm  -->
+           <!-- begin addlist-vr.htm  --     >
             <form method="post" action="http://oi.vresp.com?fid=ac47a82739" class="navbar-form navbar-left"
                 target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
                 Mailing list:
                 <input name="email_address" placeholder="Email" size="15" style="margin-top: 5px; border: 1px solid #999; padding: 3px;"/>
                 <input type="submit" value="Join" style="margin-top: 5px; border: 1px solid #999; padding: 3px;"/><br/>
             </form>
-        <!-- end addlist-vr.htm  -->
+        <!-- end addlist-vr.htm  --   >
           </ul>
+-->
         </div><!--/.nav-collapse -->
       </div>
     </nav>
