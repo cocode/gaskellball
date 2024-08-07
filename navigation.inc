@@ -25,6 +25,8 @@
             <li><a href="costumes.html">What to Wear</a></li>
             <li><a href="location.html">Location</a></li>
             <li><a href="http://facebook.com/gaskellball">Facebook</a></li>
+            <li><a href="https://www.instagram.com/gaskellball/">Instagram</a></li>
+
           </ul>
 <!--
           <ul class="nav navbar-nav navbar-right"  id="email_block">
