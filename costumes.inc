@@ -10,7 +10,7 @@ Formalwear of more recent years is also totally acceptable.</p>
 to get an idea of what is typically worn at the ball.</p>
 <p>The December, 2024 ball is <em>not</em> a costume ball.</p>
 
-<p>To preserve the look of the ball, casual attire, such as Jeans and T-shirts, casual shirts, etc., will not be allowed.</p>
+<p>To preserve the look of the ball, casual attire, such as jeans and T-shirts, costumes, etc., will not be allowed.</p>
 <p>No part of your attire that might be 
 a hazard to other dancers is allowed. Weapons are not allowed, not even if they are historically accurate parts of your attire. Of course, </p>
 <p>If you haven't danced in what you will be wearing, we recommend testing this before the ball.</p>
