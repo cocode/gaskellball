@@ -8,7 +8,7 @@
 <p/>
 <p>The Gaskell Ball is returning!</p>
 <!-- <p>If you are interested in actually working to make this happen, reach out to us.</p> -->
-<p>This was last updated 2024-07-19</p>
+<p>More information about the ball will be coming soon! Watch this space or follow us on facebook.</p>
 
 <!-- <p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p> -->
 
