@@ -4,7 +4,7 @@
         <div class="col-md-12 indented-text">
           <h1>What to Wear</h1>
 
-<p>The Gaskell Ball is a formal Victorian Ball, and Victorian formalwear the preferred standard of dress. 
+<p>The Gaskell Ball is a formal Victorian Ball, and Victorian formalwear is the preferred standard of dress. 
 Formalwear of more recent years is also totally acceptable.</p>
 <p>You can check the photo at the top of the page
 to get an idea of what is typically worn at the ball.</p>
