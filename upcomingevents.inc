@@ -20,6 +20,7 @@
 <a href="location.html" class="btn btn-info" role="button">Map</a>
 
 <h3>Schedule</h3>
+<p><em>Note that the ball is starting and ending one hour earlier. The ball will end at 11pm</em></p>
 <p><em>This schedule may change. Please check again, closer to the date of the ball</em></p>
 <dl class="dl-horizontal">
         <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
