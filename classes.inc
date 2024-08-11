@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-md-12 indented-text">
             <h1>Learning the Dances</h1>
-                <p>On the day of the ball, we teach a longer afternoon class, and also brief classes right before the ball. You can also practice before the ball at the locations listed below.</p>
+                <p>On the day of the ball, we teach a longer afternoon class, and also a 30 minute class right before the ball. You can also practice before the ball at the locations listed below.</p>
           <h2>Afternoon Dance Class - 3:00PM</h2>
           <p>On the afternoon of the ball, in the same location, there is a 2½ hour dance class taught by Tom Hill, Amelia Thomas and Hilary Powers.</p>
             <h3>The Dances</h3>
