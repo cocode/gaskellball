@@ -22,11 +22,12 @@
 <h3>Schedule</h3>
 <p><em>This schedule may change. Please check again, closer to the date of the ball</em></p>
 <dl class="dl-horizontal">
-    <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
-    <dt>6:30pm</dt><dd> Doors open for the ball<dd>
-    <dt>6:40pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
-    <dt>7:30pm</dt><dd> Dancing begins<dd>
-    <dt>11:00</dt><dd> The ball ends<dd>
+        <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
+        <dt>6:30pm</dt><dd> Doors open for the ball<dd>
+        <dt>6:45pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
+        <dt>7:30pm</dt><dd> Dancing begins<dd>
+        <dt>11:00pm</dt>
+    <dd> The ball ends<dd>
 </dl>
 
 <h3>Admission</h3>
