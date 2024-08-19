@@ -5,3 +5,4 @@ node template.js 'sub=Location and Map'         contents=@location.inc template.
 node template.js 'sub=Congress of Vienna Waltz' contents=@congress.inc jumbotron="" template.src > congress.html
 node template.js 'sub=Next Ball'                contents=@upcomingevents.inc template.src > upcomingevents.html
 node template.js 'sub=Press Info'               contents=@press.inc template.src > press.html
+node template.js 'sub=Formal Events'            contents=@formal.inc template.src > formal.html
