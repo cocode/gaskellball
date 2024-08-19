@@ -9,6 +9,7 @@
       <ul>
          <li><a href="https://www.artdecopreservationball.com/">Art Deco Preservation Ball</a></li>
          <li><a href="https://artdecola.org/avalon-ball-faq">The Avalon Ball</a></li>
+         <li><a href="https://www.fantastiquecollection.com/fantastique-starfall-balltm-2025-ca">Fantastique Starfall Ball™ 2025</a></li>
          <li><a href="https://www.hssv.org/give/more-ways-to-give/the-fur-ball/">Fur Ball (Humane Society)</a></li>
          <li><a href="http://gaskellball.com">Gaskell Ball</a></li>
          <li><a href="https://www.sfopera.com/seasons/opera-ball/">SF Opera Ball</a></li>
