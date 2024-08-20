@@ -41,20 +41,12 @@
          <img width=400 src="./images/DSC02547.jpeg">
          </a>
          <hr>
-         <a href="./images/steph_eric2.jpeg" target="_blank">
-         <img width=400 src="./images/steph_eric2.jpeg">
-         </a>
-         <hr>
         <a href="./images/DSC04016.jpeg" target="_blank">
          <img width=400 src="./images/DSC04016.jpeg">
          </a>
          <hr>
          <a href="./images/DSC03100.jpeg" target="_blank">
          <img width=400 src="./images/DSC03100.jpeg">
-         </a>
-         <hr>
-         <a href="./images/chris.jpeg" target="_blank">
-         <img width=400 src="images/chris.jpeg">
          </a>
          <hr>
          <a href="./images/DSC02630.jpeg" target="_blank">
@@ -67,10 +59,6 @@
          <hr>
          <a href="./images/DSC04028.jpeg" target="_blank">
          <img width=400 src="./images/DSC04028.jpeg">
-         </a>
-         <hr>
-         <a href="./images/lauren_jesse.jpeg" target="_blank">
-         <img width=400 src="./images/lauren_jesse.jpeg">
          </a>
          <hr>
          <a href="./images/DSC03828.jpeg" target="_blank">
