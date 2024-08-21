@@ -24,7 +24,7 @@
         </div>
         <div class="col-md-6 indented-text">
             <div width = "50%" class="embed-responsive embed-responsive-4by3">
-                <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/K65H10vAsNE"></iframe>
+                <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/9ksmHP9O6cI"></iframe>
             </div>
         </div>
  
