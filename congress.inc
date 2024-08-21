@@ -13,7 +13,7 @@
                 <a href="http://en.wikipedia.org/wiki/Congress_of_Vienna">The Congress of Vienna</a>, a political
                 conference held in Vienna, Austria, in 1814 & 1815.</p>
                 <p>The dance was choreographed by <a href="http://en.wikipedia.org/wiki/John_Hertz_%28fan%29">John Hertz</a>.
-                The original version of the music can be found <a href="http://www.ixio.org/congress/">here</a>, although we usually use a shorter version.<p>
+                The original version of the music can be found <a href="https://www.waltz.one/congress/">here</a>, although we usually use a shorter version.<p>
                 <p>There are also several covers of the music available, by</p>
                 <ul>
                     <li><a href="http://www.brassworksband.com/recordings.html">The Brassworks Band</a>
