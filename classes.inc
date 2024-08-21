@@ -7,7 +7,7 @@
           <h2>Afternoon Dance Class - 3:00PM</h2>
           <p>On the afternoon of the ball, in the same location, there is a 2½ hour dance class taught by Tom Hill, Amelia Thomas and Hilary Powers.</p>
             <h3>The Dances</h3>
-                <p>We'll be teaching the Waltz, Polka, Schottisch, Mazurka and the <a href="congress.html">Congress of Vienna Waltz</a></p>
+                <p>We'll be teaching the Waltz, Polka, Schottisch, Mazurka, Galop and the <a href="congress.html">Congress of Vienna Waltz</a></p>
                 <p>Note that, as this is a Victorian Ball, we teach the Victorian form of the Waltz. Anyone who is familiar with other versions of the Waltz should have no difficulty learning the Victorian style in an afternoon.</P>
             <h3>Clothing & Footwear for the Class</h3>
           <p>Most people attend the class in street clothes, changing after the class for the ball.</p>
