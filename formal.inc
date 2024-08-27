@@ -14,6 +14,7 @@
          <li><a href="http://gaskellball.com">Gaskell Ball</a></li>
          <li><a href="https://www.sfopera.com/seasons/opera-ball/">SF Opera Ball</a></li>
          <li><a href="https://www.sfwaltzingsociety.org/">SF Waltzing Society</a></li>
+         <li><a href="https://victoriandance.org/">Social Daunce Irregulars</a> November, in Pasadena CA</li>
       </ul>
    </div>
 </div>
