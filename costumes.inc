@@ -40,7 +40,7 @@ Hem appropriately or you may be stepping on it all night.</p>
 <p>A ball is a great place to wear comfortable shoes. If you are wearing a long dress, no one will see your shoes, anyway. 
 Some people wear ballet flats. If you wear shoes that are open on top, like a classic pump, you will want to 
 get a style with a strap. The strap will keep if from flying off, during a fast dance.</p>
-<p>Shoes designed for dancing are best, if you have them. Ballroom shoes labelled practice shoes are generally easier and more comfortable to dance it.
+<p>Shoes designed for dancing are best, if you have them. Ballroom shoes labelled practice shoes are generally easier and more comfortable to dance in.
 If you get suede bottom shoes, <em>do not</em> wear them outside. They are easy to damange. Wear other shoes and change inside the hall.</p>
 <p>If you buy new shoes for the ball, we recommend dancing in them for a while, to break them in and see if there are issues, <em>before</em> the ball. Bringing spare shoes is also a good idea.</p>
 <p>Shoes that can turn on a wooden floor are good. Most athletic shoes are not good, as they are designed to grip the floor. The really slick leather soled men's dress shoes aren't ideal, either, as they are too slippery.
