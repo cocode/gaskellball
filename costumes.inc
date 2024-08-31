@@ -44,7 +44,7 @@ get a style with a strap. The strap will keep if from flying off, during a fast 
 If you get suede bottom shoes, <em>do not</em> wear them outside. They are easy to damage. Wear other shoes and change inside the hall.</p>
 <p>If you buy new shoes for the ball, we recommend dancing in them for a while, to break them in and see if there are issues, <em>before</em> the ball. Bringing spare shoes is also a good idea.</p>
 <p>Shoes that can turn on a wooden floor are good. Most athletic shoes are not good, as they are designed to grip the floor. The really slick leather soled men's dress shoes aren't ideal, either, as they are too slippery.
-Men's modern dress shoes, with a non-sticky rubber sole or plastic sole can work.</p>
+Men's modern dress shoes, with a non-grippy rubber sole or plastic sole can work.</p>
 <p>Avoid tall platforms or spike heels, they are a danger both to yourself, and those around you.<p>
 
         </div>
