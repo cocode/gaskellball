@@ -9,6 +9,7 @@
 
 <h2>Getting to the Ball</h2>
 <p>Parking is limited in the area. Please consider Car Pools, Uber/Lyft, and Public Transportation.<p>
+<p>If you are staying at a hotel, please park at the hotel and Uber/Lyft to the ball.</p>
 <p>The ball is ending an hour earlier, 11pm, so you can finish the ball, and still easily make the last bart train</p>
 <p>You can combine methods: Park at Rockridge, Bart to Oakland, Lyft to the hall.</p>
 <p>If you have great strategy for getting to the ball, let us know.<p>
