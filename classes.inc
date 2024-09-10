@@ -15,7 +15,7 @@
 
 
             <h3>Price</h3>
-            <p>The cost of the afternoon class is $10.</p>
+            <!-- Give us the opportunity to change it <p>The cost of the afternoon class is $10.</p> -->
 
           <h2 id="evening">Evening Dance Class - 6:45</h2>
           <p>This is a half-hour introduction to basic Waltz, Polka and Schottische.</p>
