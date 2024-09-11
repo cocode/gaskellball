@@ -14,8 +14,8 @@
             <p>You will, of course, want your dance shoes for the class. Any shoe you can turn in, on a wooden floor will likely work. Avoid grippy athletic shoes, platforms and spike heels!</p>
 
 
-            <h3>Price</h3>
-            <!-- Give us the opportunity to change it <p>The cost of the afternoon class is $10.</p> -->
+             <!-- <h3>Price</h3>
+           Give us the opportunity to change it <p>The cost of the afternoon class is $10.</p> -->
 
           <h2 id="evening">Evening Dance Class - 6:45</h2>
           <p>This is a half-hour introduction to basic Waltz, Polka and Schottische.</p>
