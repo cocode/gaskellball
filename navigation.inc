@@ -27,7 +27,7 @@
             <li><a href="http://facebook.com/gaskellball">Facebook</a></li>
             <li><a href="https://www.instagram.com/gaskellball/">Instagram</a></li>
             <li><a href="https://www.youtube.com/@GaskellBall">YouTube</a></li>
-
+            <li><a href="https://vr2.verticalresponse.com/s/gaskellball">Email List</a></li>
           </ul>
 <!--
           <ul class="nav navbar-nav navbar-right"  id="email_block">
