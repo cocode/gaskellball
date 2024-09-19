@@ -1,5 +1,5 @@
 name: Build and Deploy
-
+: # https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages#linking-separate-build-and-deploy-jobs
 on:
   push:
     branches: [ "master" ]
@@ -20,8 +20,16 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: ${{ matrix.node-version }z
 
     - name: Build
       run: |
-        node template.js 'sub=Home Page'                contents=@index.inc template.src  > index.html
+        mkdir _site
+        node template.js 'sub=Home Page'                contents=@index.inc template.src  > _site/index.html
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
