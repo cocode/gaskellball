@@ -1,5 +1,4 @@
 name: "Build and Deploy"
-: # https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages#linking-separate-build-and-deploy-jobs
 on:
   push:
     branches: [ "master" ]
