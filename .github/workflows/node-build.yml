@@ -24,5 +24,4 @@ jobs:
 
     - name: Build
       run: |
-        npm install
         node template.js 'sub=Home Page'                contents=@index.inc template.src  > index.html
